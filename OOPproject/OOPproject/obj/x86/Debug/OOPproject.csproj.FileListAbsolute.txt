@@ -1,0 +1,56 @@
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form1.resources
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form2.resources
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Properties.Resources.resources
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csproj.GenerateResource.Cache
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.exe
+c:\users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.pdb
+C:\Users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csprojResolveAssemblyReference.cache
+C:\Users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Client2.resources
+C:\Users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.checkbalance.resources
+C:\Users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.debit.resources
+C:\Users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Credit.resources
+C:\Users\abdul\onedrive\documents\visual studio 2010\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Admin_Page.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.exe
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.pdb
+D:\VS 10 projects\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+D:\VS 10 projects\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csprojResolveAssemblyReference.cache
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Admin_Page.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.checkbalance.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Client2.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Credit.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.debit.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form1.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form2.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Properties.Resources.resources
+D:\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csproj.GenerateResource.Cache
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.exe
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.pdb
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csprojResolveAssemblyReference.cache
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Admin_Page.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.checkbalance.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Client2.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Credit.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.debit.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form1.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form2.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Properties.Resources.resources
+E:\folder d\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csproj.GenerateResource.Cache
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.exe
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.pdb
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.exe
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\bin\Debug\OOPproject.pdb
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csprojResolveAssemblyReference.cache
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Admin_Page.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.checkbalance.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Client2.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Credit.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.debit.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form1.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Form2.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.Properties.Resources.resources
+E:\OLD Courses\VS 10 projects\Projects\OOPproject\OOPproject\obj\x86\Debug\OOPproject.csproj.GenerateResource.Cache
